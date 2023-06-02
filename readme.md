@@ -1,4 +1,5 @@
-Techtikal ERP is a desktop software currently supporting windows only.\ Please head to the [releases](https://github.com/Sashakil12/techtikal-dist/releases) tab to download the latest version.
+Techtikal ERP is a desktop software currently supporting windows only.\ 
+Please head to the [releases](https://github.com/Sashakil12/techtikal-dist/releases) tab to download the latest version.\
 
 
 Credentials for dmeo account:\
