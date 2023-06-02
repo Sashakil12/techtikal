@@ -3,7 +3,7 @@ Please head to the [releases](https://github.com/Sashakil12/techtikal-dist/relea
 
 
 Credentials for dmeo account:\
-Email: demo@techtikal.erp
+Email: demo@techtikal.erp\
 Password: demopassword
 
 
